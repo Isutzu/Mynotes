@@ -1,9 +1,5 @@
 # Android
 
-
-
-![android logo](https://github.com/Isutzu/notes/blob/master/images/android-logo.png?raw=true)
-
 ## Android certification notes
 
 **Keep in mind**

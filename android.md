@@ -154,7 +154,7 @@ We can start any other activity from a different app if we know the fully qualif
 
 **LifeCycle of an Activity**
 
-`onSaveInstantState(Bundle outstate)` this callback method is called between _onPause\(\)_ and _onStop\(\)_ before the activity might be destroyed. We can restore the activity instant state either in the _onCreate\(\)_ or _onRestoreInstantState\(\)_ callback methods. _onRestoreInstant\(\)_ is called after _onStart\(\)_ but it is better restore the activity in the _onCreate\(\)_ method. Before restoring check if the Bundle object is not null. The first time we run the app the the bundle object in the _onCreate\(\)_ method will be null.
+`onSaveInstantState(Bundle outstate)` this callback method is called between`onPause()` and `onStop()` before the activity might be destroyed. We can restore the activity instant state either in the `onCreate()` or `onRestoreInstantState()`callback methods. `onRestoreInstant()`   is called after `onStart()`   but it is better restore the activity in the _onCreate\(\)_ method. Before restoring check if the Bundle object is not null. The first time we run the app the the bundle object in the _onCreate\(\)_ method will be null.
 
 `onCreate()` is called only once when the activity is first created. we do the following Tasks.
 

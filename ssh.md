@@ -1,7 +1,5 @@
 # SSH
 
-## SSH
-
 With SSH we can connect to the server terminal, issue commands, install programs, make configurations just like we were sitting in front of the server terminal.
 
 `ssh-keygen` Creates _id\_rsa_ and _id\_rsa.pub_ files in the .ssh directory the which contain the private and public key respectively. Private key should never be shared to avoid a men in the middle attack.
@@ -20,8 +18,6 @@ _Resources:_
 * [known\_hosts and authorized\_keys](https://unix.stackexchange.com/questions/42643/ssh-key-based-authentication-known-hosts-vs-authorized-keys)
 * [difference between known\_hosts and authorized\_keys](https://security.stackexchange.com/questions/20706/what-is-the-difference-between-authorized-keys-and-known-hosts-file-for-ssh)
 * [Understanding the SSH Encryption and Connection Process](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process#how-does-ssh-work)
-
-&lt;/br&gt;
 
 ## Bash prompt customization
 

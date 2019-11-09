@@ -20,7 +20,7 @@ _rbenv_ is more popular and easier to use than rvm.
 
 `rbenv global 2.3.5` switch to this version of ruby or use it as the default version for all projects.
 
-```text
+```bash
 oscar~\> ruby -v
 ruby 2.3.3p222 (2016-11-21 revision 56859) [universal.x86_64-darwin17]
 oscar~\> rbenv global 2.3.5

@@ -18,14 +18,14 @@ Before the Android system start a component it checks in the manifest file what 
 
 **default attributes**
 
-```markup
-1. android:allowBackup="true"
+```go
+android:allowBackup="true"
 
-2. android:icon="@mipmap/ic_luncher"
+android:icon="@mipmap/ic_luncher"
 
-3. android:label="@string/app_name"
+android:label="@string/app_name"
 
-4. android:theme="@style/AppTheme"
+android:theme="@style/AppTheme"
 ```
 
 1. It makes a backup of the app user settings . For example when the user switch to a new phone it will keep the configuration. By default is set to true on Api level 23 \(Android 6.0\) and higher.

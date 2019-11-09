@@ -7,4 +7,5 @@
 * [Android CCSF](android-ccsf.md)
 * [Ruby](ruby.md)
 * [Jquery](jquery.md)
+* [Thoughts](thoughts.md)
 

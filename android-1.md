@@ -174,17 +174,19 @@ _Android Support Libraries\*_ Android support libraries must match the compileSd
 
 **shortcut keys**
 
- - \`cmd + B \` press this key combination after placing he cursor in a resource declaration\(string,color,etc\) and it will take you to the folder where the resource was declared. - \`\` option + enter\`\` create a string resource from a hard coded string. - \`\`ctrl + space\`\` place cursor on the method and click this keys to show the parameters and documentation.
+* `cmd + B`  press this key combination after placing he cursor in a resource declaration\(string,color,etc\) and it will take you to the folder where the resource was declared. 
+* `option + enter` create a string resource from a hard coded string. 
+* `ctrl + space` place cursor on the method and click this keys to show the parameters and documentation.
+* `option + return` extract hard coded string and create a recource string
+* `cmd + click` jump to the file that is pointed byt the cursor.
 
 **Notes**
 
-`Jack Compilor` allows you to use Java 8 syntax like lambda expressions
+**Jack Compilor** allows you to use Java 8 syntax like lambda expressions
 
-`Adding dependencies on Android Studio` File-&gt;Project Structure-&gt;app-&gt;Dependencie tab
+**Adding dependencies on Android Studio** File-&gt;Project Structure-&gt;app-&gt;Dependencie tab
 
-`option + return` extract hard coded string and create a recource string
 
-`cmd + click` jump to the file that is pointed byt the cursor.
 
  **java resources** 
 

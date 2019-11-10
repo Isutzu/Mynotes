@@ -96,7 +96,7 @@ _Resources_
 
 Android provides two ways of navigating between activities: _back navigation_ and _up navigation._
 
- _**Back navigation**_  occurs when pressing the back button :arrow\_left: on the Android phone. Every time an activity is started it is pushed into the _back stack_ and gets focus so the user can interact with the activity. The back stack contains all the activities launched by the user within the app.When the user hits the back button again the current activity is destroyed from back stack and the previous one is resumed. The back stack can be configured to work in a different way.
+ _**Back navigation**_  occurs when pressing the back button ◀ on the Android phone. Every time an activity is started it is pushed into the _back stack_ and gets focus so the user can interact with the activity. The back stack contains all the activities launched by the user within the app.When the user hits the back button again the current activity is destroyed from back stack and the previous one is resumed. The back stack can be configured to work in a different way.
 
  _**Up navigation**_  occurs when the developer place an arrow key \(usually in the action bar also called tool bar\) so the user can navigate back to the previous activity. Additionally by declaring a Parent Activity in the AndroidManifest.xml file the system can place an arrow so the use can navigate back to the previous activity. Use the attribute `android:parentActivityName` for API 16 and above and use the `<meta-data>` tag for backwards Compatibility.
 

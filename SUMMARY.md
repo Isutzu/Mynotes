@@ -8,4 +8,5 @@
 * [Ruby](ruby.md)
 * [Jquery](jquery.md)
 * [Thoughts](thoughts.md)
+* [PHP](php.md)
 

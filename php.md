@@ -8,6 +8,52 @@
 
 `__destruct()` : destructor called automatically after object is no more in used \(PHP 5 and up\)
 
+`__get()`: functions as a getter on an object. `__set()`: functions as a setter for getting object data
+
+#### access modifiers
+
+`private` : access only inside the class `protected` : access only within the class or classes that instantiate that class.
+
+#### example
+
+```php
+<?php
+
+class User 
+{
+    private $name = "";
+    private $age = "";
+
+    public function __construct($name, $age){
+        $this->name = $name;
+        $this->age = $age;
+    }
+
+    public function __get($property)
+    {
+        if (property_exists($this, $property)){
+            return $this->$property;        
+        }
+    }
+
+    public function __set($property, $value)
+    {
+        if(property_exists($this, $property)){
+            $this->$property = $value;
+        }
+        return $this;
+    }
+}
+
+$user1 = new User("oscar",24);
+echo $user1->__get("name");
+//OUTPUT: oscar
+ $user1->__set("name","juan");
+ echo $user1->__get("name");
+//OUTPUT: juan
+?>
+```
+
 _Resources:_
 
 * [login with facebook](https://www.mitrajit.com/login-facebook-using-php-mysql/) 

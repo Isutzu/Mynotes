@@ -10,3 +10,9 @@ Vagrant is a tool to manage virtual boxes.We can built different environments to
 
 `vagrant ssh` connects to virtual machine. we can issue commands trough command line.
 
+links
+
+\[install phpmyadmin \]\([https://askubuntu.com/questions/796135/depreciation-notice-error-in-phpmyadmin-with-16-04](https://askubuntu.com/questions/796135/depreciation-notice-error-in-phpmyadmin-with-16-04)\)
+
+\[fixing deprecationerrors on phpmyadmin installation\]\([https://askubuntu.com/questions/796135/depreciation-notice-error-in-phpmyadmin-with-16-04](https://askubuntu.com/questions/796135/depreciation-notice-error-in-phpmyadmin-with-16-04)\)
+

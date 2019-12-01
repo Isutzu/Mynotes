@@ -59,4 +59,5 @@ _Resources:_
 * [login with facebook](https://www.mitrajit.com/login-facebook-using-php-mysql/) 
 * [digital marketing](https://indemandcareer.com/)
 *  [php object oriented](https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762)
+* [https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04)
 

@@ -2,11 +2,11 @@
 
 #### Philosophy
 
-In philosophy of the mind exist dualism and monism. Meaning the soul reside in the brain or it is just a feature of the brain . Nikola Tesla was a Monist because he thought we were just automats that react to the environment stimulus. He gives his opinion about how the brain works in the magazine electrical experimenter in the issue about a machine that is capable of reading thoughts, written by a scientist of that time.
+In philosophy of the mind exist dualism and monism. Meaning the soul reside in the brain or it is just a feature of the brain . Nikola Tesla was a Monist because he thought we were just automats that react to the environment stimulus. He gives his opinion about how he think the brain works in the comment section of the magazine Electrical Experimenter in the issue about a "machine that is capable of reading thoughts", written by a scientist of that time.
 
 **Nikola Tesla and Cosmic Rays**
 
-It seems Nikola Tesla was wrong when saying his observations showed cosmic rays traveling 50 time faster than the speed of light and coming from the antaurus constellation . Cosmic rays were discovered in 1912 and detected for the first time in 2013 coming from Orion Constellation and they did not travel faster than the speed of light\(300,000 km/sec\).  
+It seems Nikola Tesla was wrong when saying his observations showed cosmic rays traveling 50 time faster than the speed of light and coming from the Antaurus constellation . Cosmic rays were discovered in 1912 and detected for the first time in 2013 coming from Orion Constellation and they did not travel faster than the speed of light\(300,000 km/sec\).  
 
 We can not continuously progress in science or technology without the continuous questioning the accuracy of definitions of the nature phenomenon. What is electricity? The answer just describe the phenomenon but does not define it. How light or sound propagate through out space?. Is it the ether? Was the Morrison-Morley experiment really denies the existent of ether?. However we don’t need to define electricity to create or innovate technology but knowing we will create or innovate even more if know the real explanation of the phenomenon. Progress based on definitions are greater than the one based on experiments.
 

@@ -1,5 +1,7 @@
 # Kotlin
 
+
+
 **Kotlin Anonymous functions**
 
 * Do not use return keyword.
@@ -13,7 +15,7 @@ var myFunction :(String) ->String = {
 
 println(myFunction("oscar"))
 
-//OUPUT: My name is Oscar
+//OUTPUT: My name is Oscar
 ```
 
 When the anonymous function has only one argument we can omit the argument declaration
@@ -22,9 +24,6 @@ When the anonymous function has only one argument we can omit the argument decla
 var myFunction :(String) ->String = {
     "My name is $it"
 }
-
 println(myFunction("oscar"))
 ```
-
-
 

@@ -1,6 +1,6 @@
 # PHP
 
-#### PHP magic constants and methods
+PHP magic constants and methods
 
 `__CLASS__`: returns the name of the current class 
 

@@ -65,7 +65,6 @@ _Resources:_
 *  [php object oriented](https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762)
 * [https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-18-04)
 * [https://docs.php.earth/faq/misc/structure/](https://docs.php.earth/faq/misc/structure/)
-* one more
 
 
 

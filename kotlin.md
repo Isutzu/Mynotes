@@ -1,6 +1,8 @@
 # Kotlin
 
+static type language with type inference 
 
+shift+ctrl+P to see the type of a variable in IntelliJ
 
 **Kotlin Anonymous functions**
 

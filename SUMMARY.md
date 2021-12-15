@@ -4,6 +4,7 @@
 * [Kotlin](kotlin.md)
 * [Android](android/README.md)
   * [Android-CCSF](android/android-ccsf.md)
+  * [Android notes](android/android-notes.md)
 * [SSH](ssh.md)
 * [Vagrant](vagrant.md)
 * [Android CCSF](android-ccsf.md)
@@ -15,4 +16,3 @@
 * [Assembly](assembly.md)
 * [SSE](sse.md)
 * [Science](science.md)
-

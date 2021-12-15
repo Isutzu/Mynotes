@@ -1,6 +1,6 @@
 # Kotlin
 
-static type language with type inference 
+static type language with type inference&#x20;
 
 shift+ctrl+P to see the type of a variable in IntelliJ
 
@@ -11,8 +11,7 @@ shift+ctrl+P to see the type of a variable in IntelliJ
 
 ```kotlin
 var myFunction :(String) ->String = {
-     name ->
-    "My name is $name"
+     name -> "My name is $name"
 }
 
 println(myFunction("oscar"))
@@ -28,4 +27,3 @@ var myFunction :(String) ->String = {
 }
 println(myFunction("oscar"))
 ```
-

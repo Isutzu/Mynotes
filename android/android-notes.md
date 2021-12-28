@@ -2,7 +2,11 @@
 
 ### Classes and inheritance
 
-By dafault in Kotlin classes are **final** and can not be subclassed or inheritade from. Can only inherit from **** `abstract` **** classes or classes marked with the **`open`** keyboard
+<mark style="color:blue;"></mark>
+
+<mark style="color:blue;"></mark>
+
+> <mark style="color:blue;">By dafault , Kotlin classes are</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**final**</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">and can not be subclassed (or inheritade from). We  can only inherit from</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">****</mark> <mark style="color:blue;"></mark><mark style="color:blue;">`abstract`</mark> <mark style="color:blue;"></mark><mark style="color:blue;">****</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">classes or classes marked with the</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**`open`**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">keyboard</mark>
 
 ### view binding
 
@@ -46,3 +50,13 @@ In mutithreading each thread has its own functions stack
 attributes on xml
 {% endembed %}
 
+### Comments
+
+The intent should be in the comments
+
+* Express ideas directly in code
+* Dont say in comments what can be clearly stated in code
+* The intent of what you are trying to do should be stated in the comments
+* If the comment and the code dissagree both are likely wrong&#x20;
+
+Always initialize your objects

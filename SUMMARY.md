@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [AWS Amplify](README.md)
 * [Kotlin](kotlin.md)
 * [Android](android/README.md)
   * [Android-CCSF](android/android-ccsf.md)

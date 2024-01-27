@@ -2,13 +2,13 @@
 
 With SSH we can connect to the server terminal, issue commands, install programs, make configurations just like we were sitting in front of the server terminal.
 
-`ssh-keygen` Creates _id\_rsa_ and _id\_rsa.pub_ files in the .ssh directory the which contain the private and public key respectively. Private key should never be shared to avoid a men in the middle attack.
+**ssh-keygen** Creates _id\_rsa_ and _id\_rsa.pub_ files in the .ssh directory the which contain the private and public key respectively. Private key should never be shared to avoid a men in the middle attack.
 
-**known\_hosts** file is located in the client\(local\) machine and contains the list of public keys of the servers we have connected to.
+**known\_hosts** file is located in the client(local) machine and contains the list of public keys of the servers we have connected to.
 
-**authorized\_keys** file is located in the server\(remote\) machine and contains the public keys of the clients that have stablished a connection
+**authorized\_keys** file is located in the server(remote) machine and contains the public keys of the clients that have stablished a connection
 
-**Connecting to Server without password** Copy the public key _id\_rsa.pub_ in the authorized\_keys file of the remote server. If the file does not exists just create it.\([Video demo - learnCode.academy](https://youtu.be/DbPDraCYju8)\)
+**Connecting to Server without password** Copy the public key _id\_rsa.pub_ in the authorized\_keys file of the remote server. If the file does not exists just create it.([Video demo - learnCode.academy](https://youtu.be/DbPDraCYju8))
 
 _Resources:_
 
@@ -21,7 +21,7 @@ _Resources:_
 
 ## Bash prompt customization
 
-on Mac open the .bash\_profile in the home directory and add the PS1 shell variable. PS1 variable controls the prompt and it is configured before accepting any commands.\([video demo from Corey Schafer ](https://youtu.be/LXgXV7YmSiU)\).
+on Mac open the .bash\_profile in the home directory and add the PS1 shell variable. PS1 variable controls the prompt and it is configured before accepting any commands.([video demo from Corey Schafer ](https://youtu.be/LXgXV7YmSiU)).
 
 ## Xcode
 
@@ -41,10 +41,13 @@ _Resources:_
 
 [symbolic and hard links](https://www.lifewire.com/create-symbolic-links-ln-command-4059723)
 
-[what are symbolic and hard links](https://www.lifewire.com/what-are-hard-links-2190041)   
+[what are symbolic and hard links](https://www.lifewire.com/what-are-hard-links-2190041) \
 
 
 ## Shorcut keys
 
 `cmd+k` :clear screen.
 
+#### Links
+
+[_Shell Programming in Unix, Linux and OS X, 4th edition_ by Kochan and Wood](https://www.pearson.com/us/higher-education/program/Kochan-Shell-Programming-in-Unix-Linux-and-OS-X-The-Fourth-Edition-of-Unix-Shell-Programming-4th-Edition/PGM334337.html).

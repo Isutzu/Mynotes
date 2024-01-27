@@ -27,3 +27,5 @@ var myFunction :(String) ->String = {
 }
 println(myFunction("oscar"))
 ```
+
+this is a test in kotlin

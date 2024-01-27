@@ -11,5 +11,3 @@
 * [A BYTE of Python](http://python.swaroopch.com/)
 * [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-list/)
 * [DevFreeBooks](https://devfreebooks.github.io/) More links to legally free books.
-
-haber veamos

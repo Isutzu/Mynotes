@@ -6,8 +6,8 @@ shift+ctrl+P to see the type of a variable in IntelliJ
 
 **Kotlin Anonymous functions**
 
-* Do not use return keyword.
-* Can be assigned to a variable and passed to another functions
+- Do not use return keyword.
+- Can be assigned to a variable and passed to another functions
 
 ```kotlin
 var myFunction :(String) ->String = {
@@ -27,5 +27,3 @@ var myFunction :(String) ->String = {
 }
 println(myFunction("oscar"))
 ```
-
-this is a test in kotlin

@@ -27,3 +27,4 @@ var myFunction :(String) ->String = {
 }
 println(myFunction("oscar"))
 ```
+ok veamos

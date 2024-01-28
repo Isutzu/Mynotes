@@ -18,4 +18,3 @@
 * [Science](science.md)
 * [React Native](react-native.md)
 * [Python](python.md)
-* [test](test.md)

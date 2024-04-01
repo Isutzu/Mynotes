@@ -7,7 +7,7 @@ Cryptocurrency are digital tokens ,they are numbers in the blockchain which are 
 * Volumen y liquidez permiten entender los precios y vitalidad.
 * Liquidez es la facilidad y rapidez con la que se puede hacer dinero. Convertir tus monedas crypto en moneda convencional.
 
-#### ## MACD indicator
+### MACD indicator
 
 * MACD indicates bullish or bearish confirmation and overbought/oversold.
 * Great for identifying possible changes in a trend.
@@ -29,15 +29,23 @@ When the blue line is too far from the orange lineas well as the zero line It me
 
 {% endhint %}
 
-\##Links
+### DCA (Dollar-cost averaging)
+
+Buying small amount during a period of time
+
+Smart trade Calculator [https://www.thinksmartbrother.com/calculator](https://www.thinksmartbrother.com/calculator)
 
 
 
-\##DCA
+### Links
 
-(Dollar-cost averaging) Buying small amount during a period of time
+#### (SMA) Simple Moving Average
 
-\
+* TradingView Moving average [https://www.tradingview.com/support/solutions/43000502589-moving-averages/](https://www.tradingview.com/support/solutions/43000502589-moving-averages/)
+* \[Coindesk calculate MA ]\()
 
+{% embed url="https://www.coindesk.com/learn/crypto-trading-101-calculating-moving-averages/" %}
 
-Smart trade Calculator
+* [https://www.coindesk.com/learn/crypto-trading-101-calculating-moving-averages/#:\~:text=You%20take%20the%20closing%20price,hence%20the%20term%20moving%20average.](https://www.coindesk.com/learn/crypto-trading-101-calculating-moving-averages/)
+*
+

@@ -7,14 +7,12 @@ Cryptocurrency are digital tokens ,they are numbers in the blockchain which are 
 * Volumen y liquidez permiten entender los precios y vitalidad.
 * Liquidez es la facilidad y rapidez con la que se puede hacer dinero. Convertir tus monedas crypto en moneda convencional.
 
-**MACD indicator**
+#### ## MACD indicator
 
 * MACD indicates bullish or bearish confirmation and overbought/oversold.
 * Great for identifying possible changes in a trend.
 * MACD line is usually represented as a blue line.
 * Signal line is usually represented as an orange line.
-
-
 
 **Blue line crossing ABOVE orange** indicates bullish and buy opportunity &#x20;
 
@@ -31,15 +29,11 @@ When the blue line is too far from the orange lineas well as the zero line It me
 
 {% endhint %}
 
-Links
-
-\
+\##Links
 
 
-\
 
-
-DCA
+\##DCA
 
 (Dollar-cost averaging) Buying small amount during a period of time
 
